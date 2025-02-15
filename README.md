@@ -1,6 +1,4 @@
-# Intelligent-Customer-Support-Agent-with-LangGraph
-
-# Building an Intelligent Customer Support Agent with LangGraph  
+# Intelligent-Customer-Support-Agent-with-LangGraph 
 
 ## Overview  
 This project demonstrates how to build an AI-powered customer support agent using **LangGraph**, a tool for designing and managing complex language model workflows. The agent automates query categorization, sentiment analysis, response generation, and escalation of critical issues to human agents, showcasing the power of AI and graph-based workflows.  
